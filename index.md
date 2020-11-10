@@ -1,5 +1,6 @@
 # I Made Dwipayana
 ![](img/ava.png)
+<img src="img/ava.png" style="width:50%;height=auto;"></img>
 
 - <dwpynimd@gmail.com>
 - 089669853835
