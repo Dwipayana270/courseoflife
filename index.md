@@ -8,7 +8,7 @@ Seorang mahasiswa jurusan Pendidikan Matematika
 
 ## Pengalaman
 
-### <span style = "color: blue ">CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
+### <span style="color:blue">CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
 
 Pied Piper is a multi-platform technology based on a proprietary universal
 compression algorithm that has consistently fielded high Weisman Scores™ that
