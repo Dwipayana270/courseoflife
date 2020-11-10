@@ -1,6 +1,6 @@
 # I Made Dwipayana
 
-<img src="img/ava.png" style="width:50%;height=auto;"></img>
+<img src="img/ava.png" style="width:50%;height=auto;">
 
 - <dwpynimd@gmail.com>
 - 089669853835
