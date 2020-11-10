@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# I Made Dwipayana
 
-You can use the [editor on GitHub](https://github.com/Dwipayana270/courseoflife/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- <dwpynimd@gmail.com>
+- 089669853835
+- Bali, Indonesia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+CEO and Software Engineer with knowledge of applied information theory,
+including optimizing lossless compression schema of both the length-limited and
+adaptive variants.
 
-### Markdown
+## Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- You have to wrap the "left" and "right" half of these headings in spans by
+hand -->
+### <span>CEO/President, Pied Piper</span> <span>Dec 2013 -- Dec 2014</span>
 
-```markdown
-Syntax highlighted code block
+Pied Piper is a multi-platform technology based on a proprietary universal
+compression algorithm that has consistently fielded high Weisman Scores™ that
+are not merely competitive, but approach the theoretical limit of lossless
+compression.
 
-# Header 1
-## Header 2
-### Header 3
+ - Build an algorithm for artist to detect if their music was violating
+   copyright infringement laws
+ - Successfully won Techcrunch Disrupt
+ - Optimized an algorithm that holds the current world record for Weisman Scores
 
-- Bulleted
-- List
+### <span>Teacher, CoderDojo</span> <span>July 2013 -- Dec 2013</span>
 
-1. Numbered
-2. List
+Global movement of free coding clubs for young people.
+ 
+ - Awarded 'Teacher of the Month'
 
-**Bold** and _Italic_ and `Code` text
+## Projects
 
-[Link](url) and ![Image](src)
-```
+### <span>Miss Direction</span> <span>Aug 2016</span>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A mapping engine that misguides you:
 
-### Jekyll Themes
+   - Won award at AIHacks 2016
+   - Built by all women team of newbie programmers
+   - Using modern technologies such as GoogleMaps, Chrome Extension and Javascript
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dwipayana270/courseoflife/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+### <span>University of Oklahoma, BA Information Technology</span> <span>2011 -- 2014</span>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  - GPA 4.0
+  - DB1101 - Basic SQL
+  - CS2011 - Java Introduction
+
+## Skills
+
+ - Web development: HTML, CSS, JavaScript
+ - Compression: Mpeg, MP4, GIF
