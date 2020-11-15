@@ -12,34 +12,38 @@ Seorang mahasiswa jurusan Pendidikan Matematika
 
 ### Organisasi
 
- - Build an algorithm for artist to detect if their music was violating
-   copyright infringement laws
- - Successfully won Techcrunch Disrupt
- - Optimized an algorithm that holds the current world record for Weisman Scores
+ - Ketua Klub Matematika Jurusan Matematika Undiksha tahun 2018
+ - Ketua Panitia Penyusun Buku Gema Lomba Matematika tahun 2019
+ - Sekretaris Sie Web dan Desain Pekan Gema Matematika tahun 2019
 
 ### Perlombaan
 
- - Awarded 'Teacher of the Month'
+ - Juara I lomba Mini Newspaper se-Bali tahun 2018 yang diselenggarakan oleh FBS Undiksha
+ - Juara I lomba Mini Newspaper se-Bali tahun 2019 yang diselenggarakan oleh FBS Undiksha
+ - Finalis lomba Gelora Esai Nasional Undiksha tahun 2019
 
 ## <span style="color:blue">*Projects*</span>
 
-### *Paper* untuk CENIM 2020
+### CENIM 2020
 
-A mapping engine that misguides you:
-
-### Skripsi 
-
-hfkjdfhksadf
+- *On-going presenting paper on International Conferences CENIM 2020*
 
 ## <span style="color:blue">Riwayat Pendidikan</span>
 
 ### SD
 
+SD Negeri 1 Dalung
+
 ### SMP
+
+SMP 2 Kuta Utara
 
 ### SMA
 
+SMA 1 Kuta Utara
+
 ## <span style="color:blue">*Skills*</span>
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+ - *Basic office*
+ - *Basic photo editing*
+ - *Basic front-end*
