@@ -10,13 +10,13 @@ Seorang mahasiswa jurusan Pendidikan Matematika
 
 ## <span style="color:blue">Pengalaman</span>
 
-🏃 ### Organisasi
+### 🏃 Organisasi
 
  - Ketua Klub Matematika Jurusan Matematika Undiksha tahun 2018
  - Ketua Panitia Penyusun Buku Gema Lomba Matematika tahun 2019
  - Sekretaris Sie Web dan Desain Pekan Gema Matematika tahun 2019
 
-🏆 ### Perlombaan
+### 🏆 Perlombaan
 
  - Juara I lomba Mini Newspaper se-Bali tahun 2018 yang diselenggarakan oleh FBS Undiksha
  - Juara I lomba Mini Newspaper se-Bali tahun 2019 yang diselenggarakan oleh FBS Undiksha
