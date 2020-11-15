@@ -31,17 +31,11 @@ Seorang mahasiswa jurusan Pendidikan Matematika
 
 ## <span style="color:blue">Riwayat Pendidikan</span>
 
-### SD
-
-SD Negeri 1 Dalung
-
-### SMP
-
-SMP 2 Kuta Utara
-
-### SMA
-
-SMA 1 Kuta Utara
+| Jenjang | Nama sekolah            |
+| ------- | ----------------------- |
+| SD      | SD Negeri 1 Dalung      |
+| SMP     | SMP Negeri 2 Kuta Utara |
+| SMA     | SMA Negeri 1 Kuta Utara |
 
 ## <span style="color:blue">*Skills*</span>
 
