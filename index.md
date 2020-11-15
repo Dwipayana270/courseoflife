@@ -20,6 +20,7 @@ Seorang mahasiswa jurusan Pendidikan Matematika
 
  - Juara I lomba Mini Newspaper se-Bali tahun 2018 yang diselenggarakan oleh FBS Undiksha
  - Juara I lomba Mini Newspaper se-Bali tahun 2019 yang diselenggarakan oleh FBS Undiksha
+ - Semifinalis lomba Calculus Cup tahun 2019 yang diselenggarakan oleh UNJ 
  - Finalis lomba Gelora Esai Nasional Undiksha tahun 2019
 
 ## <span style="color:blue">*Projects*</span>
