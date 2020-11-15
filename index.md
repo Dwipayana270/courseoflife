@@ -39,6 +39,6 @@ Seorang mahasiswa jurusan Pendidikan Matematika
 
 ## <span style="color:blue">*Skills*</span>
 
- - *Basic office*
- - *Basic photo editing*
- - *Basic front-end*
+ - *Basic office* 🔳🔳🔳🔳🔳
+ - *Basic photo editing* 🔳🔳🔳🔳⬜️
+ - *Basic front-end* 🔳🔳🔳⬜️⬜️
